@@ -111,12 +111,15 @@ spring.datasource.password=password
 #drop n create table again, good for testing, comment this in production
 spring.jpa.hibernate.ddl-auto=create
 ```
-Done.
+Concluído.
 
 ### Download Source Code
+```
 $ git clone https://github.com/isaccanedo/spring-boot-spring-data-jpa-postgresql.git
 $ cd spring-data-jpa-postgresql
 $ mvn spring-boot:run
+```
+
 
 
 
